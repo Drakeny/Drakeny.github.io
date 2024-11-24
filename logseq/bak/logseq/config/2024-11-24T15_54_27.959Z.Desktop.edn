@@ -418,8 +418,4 @@
  ;;   - :triple-lowbar (default)
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
- :file/name-format :triple-lowbar
- :feature/enable-journals? false
- :default-home {:page "Elin Modding Compendium"}
- :feature/enable-whiteboards? false
- :publishing/all-pages-public? true}
+ :file/name-format :triple-lowbar}
