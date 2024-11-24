@@ -4,6 +4,7 @@
 	- >[JP] Guide on the introduction of custom npcs
 	  [How to introduce custom characters and items in Elin](https://docs.google.com/document/d/1jsF_msxUsSTDiukgzgfnnERZCNNz9iP_CZk8Xv9sW74/edit?tab=t.0)
 - ## Write-ups
+	-
 - ## Resources
 	- > **WeaselOfDeath's** Decompiled Elin Documentation
 	  https://weaselofdeath.github.io/ElinModdingDocumentation/
