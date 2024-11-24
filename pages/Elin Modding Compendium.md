@@ -1,4 +1,6 @@
-## Guides
+public:: true
+
+- ## [[Guides]]
 	- >[EN] **Discode's** Getting started guide
 	  https://ylvapedia.wiki/wiki/User:Discode/Modding_Getting_Started
 	- >[JP] Guide on the introduction of custom npcs
