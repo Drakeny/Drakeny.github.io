@@ -1,0 +1,2 @@
+- Elements casts a wide net representing several aspects of the game such as *Attributes*, *Feats*, *Skills*, *Abilities*, *Statuses* and more. A comprehensive list of #Elements can be found at https://elindocs.onrender.com/list/elements
+-
